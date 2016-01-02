@@ -1,0 +1,27 @@
+#control-panel{
+	text-align: center;
+	margin: 2px;
+}
+
+#grid-container{
+	display: inline-block;
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+.grid-row{
+	background-color: #eee;
+}
+
+.grid-cell{
+	background-color: #ff0000;
+	height: 20px;
+	width: 20px;
+	margin: 1px;
+	display: inline-block;
+}
+
+.grid-hover{
+	background-color: #0000ff;
+}
