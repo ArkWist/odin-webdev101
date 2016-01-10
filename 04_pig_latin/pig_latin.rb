@@ -11,9 +11,10 @@ def is_vowel? (letter)
 	vowels.include?(letter) ? true : false
 end
 
+### This only checks 'qu' at beginning of words. Won't work for 'square' ###
+
 def translate_word (word)
 	inflection = "ay"
-	puts "First two letters: #{word[0..1]}"
 	if word[0..1].eql? "qu"
 		inflection = "quay"
 		word = word[2..-1]
