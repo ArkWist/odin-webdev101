@@ -2,15 +2,15 @@
 
 Completed projects from [The Odin Project](http://www.theodinproject.com/)'s *[Web Development 101](http://www.theodinproject.com/web-development-101)* course.
 
-## Projects
+## Project List
 
-### HTML/CSS
+#### HTML/CSS
 - Google Homepage
 
-### Javascript and jQuery
+#### Javascript and jQuery
 - Etch-A-Sketch
 
-### Ruby
+#### Ruby
 - Hello
 - Temperature
 - Calculator
@@ -19,6 +19,6 @@ Completed projects from [The Odin Project](http://www.theodinproject.com/)'s *[W
 - Book Titles
 - Timer
 
-### Ruby on Rails
+#### Ruby on Rails
 - Rails Blog
 - Blogger
